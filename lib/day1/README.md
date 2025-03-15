@@ -3,7 +3,7 @@
 -> What is it?
     CustomClipper allows you to create custom shapes for widgets, giving your app a unique and eye-catching design.
     
-![Simulator Screenshot - iPhone 16 Plus - 2025-03-14 at 18 40 27](https://github.com/user-attachments/assets/e6b1a2d5-b521-49f9-aa57-9bf611fd9c5e = 40*400)
+![Simulator Screenshot - iPhone 16 Plus - 2025-03-14 at 18 40 27](https://github.com/user-attachments/assets/e6b1a2d5-b521-49f9-aa57-9bf611fd9c5e {width=40px height=400px})
 
 -> Why it’s useful
     Custom clippers add personality to your app by breaking free from conventional rectangular shapes.
