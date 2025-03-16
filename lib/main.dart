@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:linkedin_thinks/day1/repaint_boudary.dart';
 import 'package:linkedin_thinks/day2/custom_error_widget.dart';
+import 'package:linkedin_thinks/day3/mesh_button.dart';
 
 void main() {
   runApp(const MyApp());
@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: RepaintBoundaryExample(),
+      home: MeshButton(),
     );
   }
 }
